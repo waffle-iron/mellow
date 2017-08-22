@@ -1,5 +1,0 @@
-{
-    "python.venvPath": "~/Virtualenvs",
-    "python.pythonPath": "~/Virtualenvs/djangopy3/bin/python3",
-    "python.linting.pylintPath": "~/Virtualenvs/djangopy3/bin/pylint",
-}
