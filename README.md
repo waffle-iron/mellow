@@ -171,7 +171,7 @@ $ pip install -r requirements.txt
 
 ***
 
-Now, the project will be cloned to your machine and the virtualenv will be activated with all requirements already installed. On the main folder for ___\<mellow/\>___, you'll have a `manage.py` file. Every time you need to run the server, it has to be executed from that folder.
+Now, the project will be cloned to your machine and the virtualenv will be activated with all requirements already installed. On the main folder for \<mellow/\>, you'll have a `manage.py` file. Every time you need to run the server, it has to be executed from that folder.
 
 To run it, type:
 
